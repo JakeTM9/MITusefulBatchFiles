@@ -1,0 +1,17 @@
+https://download.sublimetext.com/Sublime%20Text%20Build%203126%20x64%20Setup.exe
+https://www.apachefriends.org/xampp-files/7.1.8/xampp-win32-7.1.8-0-VC14-installer.exe
+https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.70-installer.msi
+https://notepad-plus-plus.org/repository/7.x/7.5/npp.7.5.Installer.exe
+https://github.com/git-for-windows/git/releases/download/v2.14.1.windows.1/Git-2.14.1-64-bit.exe
+https://download.teamviewer.com/download/TeamViewer_Setup.exe
+https://app.getpostman.com/app/download/win64?_ga=2.192680419.895914925.1518665678-890014526.1518665678
+https://download.filezilla-project.org/client/FileZilla_3.30.0_win64-setup_bundled.exe
+https://download.scdn.co/SpotifySetup.exe
+https://downloads.slack-edge.com/releases_x64/SlackSetup.exe
+https://sourceforge.net/projects/kdiff3/files/latest/download?source=typ_redirect
+https://www.mongodb.com/dr/fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-3.6.2-signed.msi/download
+https://nodejs.org/dist/v8.9.4/node-v8.9.4-x64.msi
+https://dl.google.com/go/go1.9.4.windows-amd64.msi
+https://github.com/NickeManarin/ScreenToGif/releases/download/2.12/ScreenToGif.2.12.Setup.msi
+https://app.prntscr.com/build/setup-lightshot.exe
+https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe
